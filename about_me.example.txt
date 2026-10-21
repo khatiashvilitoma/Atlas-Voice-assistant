@@ -1,0 +1,15 @@
+# Facts about you. Copy this file to "about_me.txt" and fill it in.
+# The assistant reads about_me.txt before every answer, so you can edit it
+# at any time, even while the assistant is running.
+#
+# Lines starting with # are ignored. Write one fact per line, in plain English,
+# under this comment. For example:
+#
+#   My name is Alex.
+#   I work as a software developer at a small company.
+#   At work I build websites with Python and JavaScript.
+#   I live in London.
+#   I prefer short, direct answers.
+#
+# Write your facts below this line:
+

@@ -1,0 +1,12 @@
+# Install with:  python -m pip install -r requirements.txt
+# Versions tested on Windows 11 with Python 3.12.
+ollama==0.6.3
+faster-whisper==1.2.1
+kokoro-onnx==0.6.1
+sounddevice==0.5.6
+numpy==2.5.4
+pyttsx3==2.99
+psutil==7.2.2
+ddgs==9.16.0
+pillow==12.3.0
+requests==2.34.2

@@ -1,0 +1,14 @@
+# Private: your conversations and facts about you
+memory.json
+about_me.txt
+
+# Kokoro voice files (337 MB, too big for GitHub; download them, see README)
+kokoro/
+
+# Logs and temporary files
+atlas_log.txt
+__pycache__/
+*.pyc
+*.wav
+.venv/
+venv/
